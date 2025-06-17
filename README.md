@@ -16,6 +16,7 @@ This Flask-based web application offers text summarization functionality, conden
 - NumPy
 
 # Usage
+
 1. Clone the repository:
              https://github.com/SreyaSree1405/Synopsis-Generator
    
