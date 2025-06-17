@@ -8,4 +8,11 @@ This Flask-based web application offers text summarization functionality, conden
 
 - Provides concise summaries while retaining essential information.
 
+# Dependencies
+- Flask
+  
+- scikit-learn
+  
+- NumPy
+
 
