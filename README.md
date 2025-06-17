@@ -15,5 +15,18 @@ This Flask-based web application offers text summarization functionality, conden
   
 - NumPy
 
+# Usage
+1. Clone the repository:
+
+
+2.Install dependencies:
+
+3.Run the Flask application:
+
+python app.py
+
+4.Access the application through a web browser.
+
+
 
 
