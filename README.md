@@ -18,15 +18,15 @@ This Flask-based web application offers text summarization functionality, conden
 # Usage
 
 1. Clone the repository:
-             https://github.com/SreyaSree1405/Synopsis-Generator
-   
-2.Install dependencies:
+   https://github.com/SreyaSree1405/Synopsis-Generator
 
-3.Run the Flask application:
+2. Install dependencies:
+
+3. Run the Flask application:
 
       python app.py
 
-4.Access the application through a web browser.
+4. Access the application through a web browser.
 
 
 
